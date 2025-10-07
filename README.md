@@ -17,7 +17,8 @@ AGGREGATE CUSTOMER LEVEL METRICS :
 PRODUCT_KPIS : 
 - recency (months since last sale)
 - average order revenue (AOR)
- - average monthly revenue
+ - average monthly revenue 
+ 
 CUSTOMER_KPIS :
 - recency (months since last order)
 		- average order value
