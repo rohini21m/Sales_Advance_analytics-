@@ -28,4 +28,6 @@ Who can BENEFIT FROM THIS REPORT ?
 Business team can view this sales report and can make decision on which product to discontinue and what changes they can be made to product such as change in their selling cost, 
 adding more products in certain categories.
 
-INSIGHTS DETAILS : We found 14,631 customers as 'VIP' who like to spend more.than $5000 in a month , 2198 'Regular Customers' that prefer to spend less than $5000 in a month and 1655 'new Customers' that spends less than $1000in a month 
+INSIGHTS DETAILS : 
+1) We found 14,631 customers as 'VIP' who like to spend more.than $5000 in a month , 2198 'Regular Customers' that prefer to spend less than $5000 in a month and 1655 'new Customers' that spends less than $1000in a month. 
+2) BIKES Takes upto 96% of overallsales which indicated other categories are failing majorly in contributing sales.
