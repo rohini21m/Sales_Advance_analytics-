@@ -1,6 +1,6 @@
-[Product Sales Report.docx](https://github.com/user-attachments/files/22803897/Product.Sales.Report.docx)
-This project is about a sales insights  report on a series of products and their performance based on total_Sales, customer spending behaviour, customer level meterics, product level metrics, inclduing statistical analysis such as segementing customers based on their spending patterns, product groups based on their revenue and orders made in a particular month.  
-INSIGHTS COVERED IN THIS PROJECT : Customer_report, Product_Report (created as view),  customer_level and product_level aggregations, CHANGE OVER TIME TREND, BEST PERFORMING MONTH AS PER SALES, CUMMULATIVE ANALYSIS, RUNNING TOTAL, MOVING_AVERAGE, PERFORMANCE ANALYSIS(BUSIENSS /SALES OVER YEAR, CURRENT SALES VS AVERAGE SALES) , PART TO WHOLE PROPORTION (which product category contributes to overall sales), 
+PROJECT INTODUCTION : 
+This project is about a company product sales insights report on a series of product categories and their performance based on total_Sales, customer spending behaviour, customer level meterics, product level metrics, inclduing statistical analysis such as segementing customers based on their spending patterns, product groups based on their revenue and orders made in a particular month.  
+INSIGHTS & BUSINESS METRICS COVERED IN THIS PROJECT : Customer_report, Product_Report (created as view),  customer_level and product_level aggregations, CHANGE OVER TIME TREND, BEST PERFORMING MONTH AS PER SALES, CUMMULATIVE ANALYSIS, RUNNING TOTAL, MOVING_AVERAGE, PERFORMANCE ANALYSIS(BUSIENSS /SALES OVER YEAR, CURRENT SALES VS AVERAGE SALES) , PART TO WHOLE PROPORTION (which product category contributes to overall sales), 
 DATA SEGEMENTATION METRICS :  FOR CUSTOMERS (by spending behaviour) AND PRODUCTS(highly performed sales), 
 AGGREGATE CUSTOMER LEVEL METRICS :  
   --a) total orders 
